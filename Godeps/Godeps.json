@@ -1,9 +1,6 @@
 {
 	"ImportPath": "github.com/Shyp/go-dberror",
-	"GoVersion": "go1.5.3",
-	"Packages": [
-		"./..."
-	],
+	"GoVersion": "go1.5",
 	"Deps": [
 		{
 			"ImportPath": "github.com/letsencrypt/boulder/test",

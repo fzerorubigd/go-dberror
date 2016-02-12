@@ -1,7 +1,7 @@
 package pq
 
 import (
-	"github.com/Shyp/go-dberror/Godeps/_workspace/src/github.com/lib/pq/oid"
+	"github.com/lib/pq/oid"
 
 	"bytes"
 	"fmt"

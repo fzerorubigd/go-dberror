@@ -7,7 +7,7 @@ import (
 	"bytes"
 	"database/sql"
 	"database/sql/driver"
-	"github.com/Shyp/go-dberror/Godeps/_workspace/src/github.com/lib/pq/oid"
+	"github.com/lib/pq/oid"
 	"io"
 	"math/rand"
 	"net"
